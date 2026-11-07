@@ -1,4 +1,4 @@
-## Hi, I'm Aditi 👋
+## Hi, 
 
 CS & Business Systems student. I build web apps and I'm looking for a software internship where I can ship real features and learn fast.
 
